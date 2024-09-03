@@ -1,17 +1,6 @@
 # OfficetelLink
 
 
-### :bulb: 시연 영상
-
-
-
-
-↑ 클릭하면 시연 영상을 볼 수 있습니다!
-
-
-
-
-
 ## 🚩 목차
 
 1. 기획 배경
@@ -255,8 +244,3 @@
 
 - 서로 존중한다.
 
-
-**Retrospect**
-- [정경원](https://github.com/kw99j10) : 
-
-- [박상천](https://github.com/SangCheonP) : 
